@@ -1,1 +1,6 @@
-Being able to revert back to an early insatlled configuration of Windows is an important and time saving trouble shooting tool. Often system problems arise when drivers or software or OS updates are made. 
+Being able to revert back to an early installed configuration of Windows is an important and time saving trouble shooting tool. Often system problems arise when drivers or software or OS updates are made. Windows provides a built in tool that allows you to make a "restore point" before installing new software. If you encounter problems after the installation you can restore the computer to the configuration before the install.
+
+Windows 7, 8, 8.1 and Windows 10, as well as Windows XP give the user access to this tool. After restoring to a fully functioning configuration, you can narrow down the cause of an issue by re-installing one driver or software package at a time to see what triggered the problem. Once the cause is determined more research can be done to identify the source and any possible resolutions.
+
+This can be a time consuming process, a single restore can take 10 - 30 minutes. It is a good idea to make regular restore points, and especially to create a restore point prior to new installations. 
+
